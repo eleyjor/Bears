@@ -1,2 +1,2 @@
 # Bears
-about Bears
+My project about Bears
